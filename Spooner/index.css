@@ -1,0 +1,37 @@
+.asd{
+    width: 400px;
+}
+h1 {
+    text-align: center;
+    color: white;
+    background-color: black;
+    margin: 0 auto;
+    width: 250px;
+    font-family: Lucida Console;
+    
+}
+
+img {
+    width: 200px;
+    height: 200px;
+    border-radius: 100%;
+    display: block;
+    margin: 0 auto;
+padding: 20px 0 20px 0;
+}
+h3{
+    text-align: center;
+    border: 50px orange;
+    background-color: orangered;
+    width: 300px; 
+    padding: 10px 10px 10px 10px;
+    margin: 20PX auto;
+    font-family: Lucida Console;
+}
+
+.content {
+    background-color: black;
+    width: 400px;
+    margin-left: 500px;
+
+}
